@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32802.440
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PartialViews-Loadmore", "PartialViews-Loadmore\PartialViews-Loadmore.csproj", "{67E651F7-C592-4ABF-A38C-90C7BA106DFD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{67E651F7-C592-4ABF-A38C-90C7BA106DFD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{67E651F7-C592-4ABF-A38C-90C7BA106DFD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{67E651F7-C592-4ABF-A38C-90C7BA106DFD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{67E651F7-C592-4ABF-A38C-90C7BA106DFD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CCF3DB5E-8D65-40D6-959A-136A19EDE120}
+	EndGlobalSection
+EndGlobal
